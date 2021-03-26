@@ -1,0 +1,6 @@
+// @flow
+
+export const FETCH_PICTURES_REQUEST: string = 'FETCH_PICTURES_REQUEST';
+export const FETCH_PICTURES_SUCCESS: string = 'FETCH_PICTURES_SUCCESS';
+export const FETCH_PICTURES_FAILURE: string = 'FETCH_PICTURES_FAILURE';
+export const SELECT_PICTURE: string = 'SELECT_PICTURE';
