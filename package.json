@@ -23,7 +23,7 @@
     "server": "nodemon --watch server server/index.js",
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
   },
-  "author": "",
+  "author": "Kevin",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.4",
